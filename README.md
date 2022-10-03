@@ -4,5 +4,5 @@ In this assignement we have created a process where a complaint gets a rating, a
 
 #### BPMN Model
 
-BPMN Graphical : ReceiveComplaint.bpmn
-BPMN XML : ReveiveComplaint.XML
+- BPMN Graphical : ReceiveComplaint.bpmn
+- BPMN XML : ReveiveComplaint.XML
